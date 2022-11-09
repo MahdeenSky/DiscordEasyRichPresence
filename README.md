@@ -27,7 +27,7 @@ Get your client ID and fill it in the gaps in main.py
 <br><br>
 <img align="center" src='https://i.imgur.com/X3G0hQy.png'>
 <br><br />
-Now go to main.py, put your client id, and change the activity code according to your best fit
+Within main.py, change the activity code according to your best fit
 
 ```bash
 activity = {
