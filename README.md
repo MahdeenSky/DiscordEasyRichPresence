@@ -48,7 +48,7 @@ activity = {
             ]
         }
 ```
-Make sure your desktop app is running and then run the main.py
+Make sure your Discord app is running and then run the main.py
 ```bash
 python3 main.py
 ```
