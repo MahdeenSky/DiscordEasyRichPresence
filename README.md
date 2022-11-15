@@ -44,7 +44,7 @@ activity = {
             },
             "buttons": [ # optional, add if you want buttons
                 {"label": "??? Sword Art Online ???", "url": "https://www.youtube.com/watch?v=onYSNgHbbW8&ab_channel=Gigguk"}, 
-                {"label": "*----* 🅶🅸🆃🅷🆄🅱 *----*", "url": "https://github.com/MahdeenSky"} # label = button text, url = link to redirect on click
+                {"label": "*----* GITHUB *----*", "url": "https://github.com/MahdeenSky"} # label = button text, url = link to redirect on click
             ]
         }
 ```
